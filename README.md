@@ -1,5 +1,5 @@
 ### Hi there!
-### I'm Nina, and I'm a software developer at Adzooma.
+### I'm Nina, and I'm a software developer.
 ###
 ### I specialise in front-end-technologies, namely Javascript (ES6), React, HTML & CSS.
 ###
