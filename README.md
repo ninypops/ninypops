@@ -1,7 +1,7 @@
 ### Hi there!
 ### I'm Nina, and I'm a software developer.
 ###
-### I specialise in front-end-technologies, namely Javascript (ES6), React, HTML & CSS.
+### I specialise in front-end-technologies, namely Javascript, React, HTML & CSS.
 ###
 ### When I'm not writing code, I'm usually fighting my way through virtual (and real) world pandemics, going to live music events and hanging out at my favourite independent coffee shop.
 
