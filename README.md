@@ -1,7 +1,7 @@
 ### Hi there!
 ### I'm Nina, and I'm a Frontend Developer.
 ###
-### My current side project consists of a React project [create-react-app] with a AWS Backend to handle authorisation/authentication.
+### My current side project consists of a React project [create-react-app] with a AWS Backend to handle authorisation/authentication. [https://github.com/ninypops/react-blog-with-authorization]
 ### I'm also maintaining my personal website, configuring it incrementally to be more robust and consolidated. [https://ninypops.com]
 <!--
 **ninypops/ninypops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
