@@ -1,9 +1,10 @@
-### Hi there!
+## Hi there!
 ### I'm Nina, and I'm a Frontend Developer.
-###
-### My current side project consists of a React project [create-react-app] with a AWS Backend to handle authorisation/authentication. [https://github.com/ninypops/react-blog-with-authorization]
-### Also, building a Cyberpunk 2077 themed online store with [https://www.contentful.com].
-### I'm always maintaining my personal website, configuring it incrementally to be more robust and consolidated. [https://ninypops.com]
+This is what I call, a 'playground' for me to experiment and learn. Here, you'll find finished and unfinished projects. Much like my life, it's all a work-in-progress.
+### I'm currently working on ~~all the things~~ the following:
++ React project with a AWS Backend to handle authorisation/authentication. [https://github.com/ninypops/react-blog-with-authorization]
++ A Cyberpunk 2077 themed online store with [https://www.contentful.com].
++ I'm always maintaining my personal website, configuring it incrementally to be more robust and consolidated. [https://ninypops.com]
 <!--
 **ninypops/ninypops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
