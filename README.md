@@ -2,7 +2,7 @@
 ### I'm Nina, and I'm a Frontend Developer.
 This is what I call, a 'playground' for me to experiment and learn. Here, you'll find finished and unfinished projects. Much like my life, it's all a work-in-progress.
 
-### I recently built:
+### I've recently built:
 + [A masonry image gallery with imagekit.io](https://github.com/ninypops/image-gallery)
 
 ### I'm currently working on ~~all the things~~ the following:
