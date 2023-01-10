@@ -7,9 +7,9 @@ This is what I call, a 'playground' for me to experiment and learn. Here, you'll
 
 ### I'm currently working on ~~all the things~~ the following:
 + A small, conceptual online store built with create-react-app.
-+ React project with a AWS Backend to handle authorisation/authentication. [https://github.com/ninypops/react-blog-with-authorization]
-+ A Cyberpunk 2077 themed online store with [https://www.contentful.com].
-+ I'm always maintaining my personal website, configuring it incrementally to be more robust and consolidated. [https://ninypops.com]
++ [React project with a AWS Backend to handle authorisation/authentication.](https://github.com/ninypops/react-blog-with-authorization)
++ [A Cyberpunk 2077 themed online store with](https://www.contentful.com).
++ I'm always maintaining my [personal website](https://ninypops), configuring it incrementally to be more robust and consolidated.
 <!--
 **ninypops/ninypops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
