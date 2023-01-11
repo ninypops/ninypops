@@ -3,6 +3,7 @@
 This is what I call, a 'playground' for me to experiment and learn. Here, you'll find finished and unfinished projects. Much like my life, it's all a work-in-progress.
 
 ### I've recently built:
++ [A simple blog page that delivers content via fetch API](https://github.com/ninypops/simple-blog)
 + [A masonry image gallery with imagekit.io](https://github.com/ninypops/image-gallery)
 
 ### I'm currently working on ~~all the things~~ the following:
