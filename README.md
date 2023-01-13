@@ -7,6 +7,7 @@ This is what I call, a 'playground' for me to experiment and learn. Here, you'll
 + [A masonry image gallery with imagekit.io](https://github.com/ninypops/image-gallery)
 
 ### I'm currently working on ~~all the things~~ the following:
++ [A randomized quiz web app.](https://github.com/ninypops/quiz-randomizer)
 + A small, conceptual online store built with create-react-app.
 + I'm always maintaining my [personal website](https://ninypops), configuring it incrementally to keep things relevant.
 <!--
