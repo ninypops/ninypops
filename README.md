@@ -1,6 +1,6 @@
 ## Hi there!
 ### I'm Nina, and I'm a Frontend Developer.
-This is what I call, a 'playground' for me to experiment and learn. Here, you'll find finished and unfinished projects. Much like my life, it's all a work-in-progress.
+Welcome to my 'playground' where I experiment and learn with code. Here, you'll find finished and unfinished projects. Much like my life, it's all a work-in-progress.
 
 ### I've recently built:
 + [A simple blog page that delivers content via fetch API](https://github.com/ninypops/simple-blog)
